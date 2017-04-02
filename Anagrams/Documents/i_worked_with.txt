@@ -1,0 +1,3 @@
+I worked with Adrian Bollerslev and I feel like we worked pretty well with eachother. 
+We split the work up evenly, and we demanded a lot out of each other. 
+When we have bugs in the code we like to get together and look at it at the same time and we usually are able to find the bug.
